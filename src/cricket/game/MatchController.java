@@ -1,8 +1,8 @@
 package cricket.game;
 
-import java.util.ArrayList;
 
-public class MatchController {
+
+class MatchController {
     private int no_of_overs;
     private MatchStatus matchStatus;
 

@@ -2,7 +2,7 @@ package cricket.game;
 
 import java.util.Random;
 
-public class CreateMatch {
+class CreateMatch {
     private static MatchStatus matchStatus;
     static MatchStatus createMatch(Team team1,Team team2){
         Random random = new Random();

@@ -1,6 +1,6 @@
 package cricket.game;
 
-public class MatchStatus {
+class MatchStatus {
     private Team tossWinner;
     private String decided;
     private Team firstBat;

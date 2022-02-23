@@ -2,7 +2,7 @@ package cricket.game;
 
 import java.util.ArrayList;
 
-public class CreatePlayer {
+class CreatePlayer {
    private static ArrayList<Player> team1 = new ArrayList<>();
    private static ArrayList<Player> team2 = new ArrayList<>();
 

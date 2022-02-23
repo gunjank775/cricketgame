@@ -2,7 +2,7 @@ package cricket.game;
 
 import java.util.ArrayList;
 
-public class Team {
+class Team {
     private String name;
     private int score;
     private int wicket;

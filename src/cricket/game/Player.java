@@ -1,6 +1,6 @@
 package cricket.game;
 
-public class Player {
+class Player {
     private  String  name;
     private  int age;
     private int score;

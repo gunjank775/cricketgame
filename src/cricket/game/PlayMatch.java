@@ -3,7 +3,7 @@ package cricket.game;
 import java.util.ArrayList;
 import java.util.Random;
 
-public class PlayMatch {
+class PlayMatch {
 
     public static int getScore() {
         int min=0,max=7;
